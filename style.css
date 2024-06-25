@@ -1,0 +1,10 @@
+div {
+    width: 300px;
+    border: 1px solid black;
+    padding: 0px;
+    margin: 20px;
+}
+
+div details summary, div details p {
+    padding: 7px;
+}
