@@ -31,7 +31,9 @@ function carregaDicionario() {
             descricao: "Rosa Louise McCauley, mais conhecida por Rosa Parks, foi uma costureira negra norte-americana, símbolo do movimento dos direitos civis dos negros nos Estados Unidos. Ficou famosa, em 1º de dezembro de 1955, por ter-se recusado frontalmente a ceder o seu lugar no ônibus a um branco, tornando-se o estopim do movimento que foi denominado boicote aos ônibus de Montgomery e posteriormente viria a marcar o início da luta antissegregacionista.", 
             citacao: "Você nunca deve ter medo do que está fazendo quando está certo."}
     };
-    console.log(biografias);
+    for (var bio in biografias) {
+        console.log((bio+= " Nome: " + biografias[bio].nome + " Minibio: " + biografias[bio].descricao + " Citação: " + biografias[bio].citacao));
+    }
 }
 
 carregaDicionario();
