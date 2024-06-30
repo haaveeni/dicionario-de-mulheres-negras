@@ -1,2 +1,6 @@
-# primeiroSiteResponsivo
-Repositório para os meus códigos referentes ao curso Programaria FrontEnd 2 - Meu primeiro site responsivo
+# Dicionario
+## Projeto final do curso EuProgramo Front-End II da Programaria
+
+Este é um projeto é um dicionário que lista as mulheres negras que fizeram e ainda fazem parte da história do Brasil e do mundo.
+
+Feito com HTML, CSS e JavaScript. 
