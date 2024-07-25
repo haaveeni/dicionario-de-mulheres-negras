@@ -46,7 +46,7 @@ Projeto final do curso EuProgramo Front-End II da Programaria, um dicionário qu
 
 ### Web
 
-https://github.com/user-attachments/assets/45321672-eb03-4337-9892-876634a73e09
+https://github.com/user-attachments/assets/aa8abbfa-ad3b-4a1b-af18-0c56e0d847cf
 
 ### Mobile
 
