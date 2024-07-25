@@ -101,7 +101,7 @@ Agradeço a <a href="https://github.com/programaria">Programaria💜💻</a>, po
 
 ---
 
-## 🧙‍♂️ Autor
+## 👩🏻 Autora
 <div align="center">
   <a href="https://www.linkedin.com/in/veridiana-lucena/">
  <img src="https://media.licdn.com/dms/image/D4D03AQE7TU2xzZdMtQ/profile-displayphoto-shrink_200_200/0/1715875083059?e=1727308800&v=beta&t=IMNulLJ8nfCxPci-BR6WRLSwNtphIVhohpEqlGyt9QI" width="100px;" alt=""/>
