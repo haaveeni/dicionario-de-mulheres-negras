@@ -96,6 +96,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 
+## 🤝 Agradecimentos
+Agradeço a <a href="https://github.com/programaria">Programaria💜💻</a>, por ter me cedido uma bolsa de estudos para o curso, e ter um módulo inteirinho sobre motivar mulheres na área de tecnologia. Também agradeço a <a href="https://github.com/alinebezzoco">Aline Bezzoco</a>, professora do curso EuProgramo Front-End II da Programaria, pelas aulas extremamente didáticas. 
+
+---
+
 ## 🧙‍♂️ Autor
 <div align="center">
   <a href="https://www.linkedin.com/in/veridiana-lucena/">
