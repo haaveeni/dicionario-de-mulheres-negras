@@ -73,7 +73,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 $ git clone git@github.com:haaveeni/dicionarioMulheresNegras.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd haaveeni/dicionarioMulheresNegras
+$ cd dicionarioMulheresNegras
 
 # Instale as dependências
 $ npm i
