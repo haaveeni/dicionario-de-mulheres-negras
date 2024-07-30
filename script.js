@@ -12,7 +12,7 @@ function carregaDicionario() {
             citacao: "Ah, comigo o mundo vai modificar-se. Não gosto do mundo como ele é."},
         bio03: {
             nome: "Conceição Evaristo", 
-            imagem: "./img/conceicao-evaristo.png", 
+            imagem: "./img/conceicao-evaristo-pb.png", 
             descricao: "Maria da Conceição Evaristo de Brito nasceu em Belo Horizonte, em 1946. De origem humilde, migrou para o Rio de Janeiro na década de 1970. Graduada em Letras pela UFRJ, trabalhou como professora da rede pública de ensino da capital fluminense. É Mestre em Literatura Brasileira pela PUC do Rio de Janeiro, com a dissertação Literatura Negra: uma poética de nossa afro-brasilidade (1996), e Doutora em Literatura Comparada na Universidade Federal Fluminense, com a tese Poemas malungos, cânticos irmãos (2011), na qual estuda as obras poéticas dos afro-brasileiros Nei Lopes e Edimilson de Almeida Pereira em confronto com a do angolano Agostinho Neto.", 
             citacao: "O importante não é ser o primeiro ou primeira, o importante é abrir caminhos."},
         bio04: {
@@ -22,7 +22,7 @@ function carregaDicionario() {
             citacao: "A gente não nasce negro, a gente se torna negro. É uma conquista dura, cruel e que se desenvolve pela vida da gente afora."},
         bio05: {
             nome: "Marielle Franco", 
-            imagem: "./img/marielle-franco-2.png", 
+            imagem: "./img/marielle-franco-pb.png", 
             descricao: "Marielle Francisco da Silva, conhecida como Marielle Franco, foi uma socióloga, feminista, militante dos direitos humanos e política brasileira. Filiada ao Partido Socialismo e Liberdade (PSOL), elegeu-se vereadora do Rio de Janeiro para a Legislatura 2017-2020, durante a eleição municipal de 2016, com a quinta maior votação. Crítica da intervenção federal no Rio de Janeiro e da Polícia Militar, denunciava constantemente abusos de autoridade por parte de policiais contra moradores de comunidades carentes. Em 14 de março de 2018, foi assassinada a tiros.", 
             citacao: "Quantos mais vão precisar morrer para que essa guerra aos pobres acabe?"},
         bio06: {
